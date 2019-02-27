@@ -23,10 +23,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Support\\": ""
+            "Royalcms\\Component\\Support\\": "Royalcms/Component/Support"
         },
         "files": [
-            "helpers.php"
+            "Royalcms/Component/Support/helpers.php"
         ]
     },
     "extra": {
